@@ -1,0 +1,900 @@
+Mar 15, 2013 8:24:30 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 8:24:59 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:23:15Z 28877
+Mar 15, 2013 8:24:59 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:23:15Z
+Mar 15, 2013 8:25:22 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:23:15Z 2013-03-15T08:25:22Z 23412  127000 281
+Mar 15, 2013 8:26:10 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 8:26:10 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:23:22Z 394
+Mar 15, 2013 8:26:10 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:23:22Z
+Mar 15, 2013 8:26:13 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:23:22Z 2013-03-15T08:26:13Z 2664  171000 281
+Mar 15, 2013 8:27:50 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 8:27:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:25:18Z 642
+Mar 15, 2013 8:27:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:25:18Z
+Mar 15, 2013 8:27:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:25:18Z 2013-03-15T08:27:53Z 2446  155000 281
+Mar 15, 2013 8:29:30 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 8:29:30 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:28:16Z 234
+Mar 15, 2013 8:29:30 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:28:16Z
+Mar 15, 2013 8:29:30 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:23:15Z 289
+Mar 15, 2013 8:29:48 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:28:16Z 2013-03-15T08:29:48Z 17385  92000 551
+Mar 15, 2013 8:31:10 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 8:31:10 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:28:23Z 287
+Mar 15, 2013 8:31:10 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:28:23Z
+Mar 15, 2013 8:31:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:28:23Z 2013-03-15T08:31:12Z 1717  169000 551
+Mar 15, 2013 8:32:50 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 8:32:50 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 421
+Mar 15, 2013 8:32:50 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z
+Mar 15, 2013 8:32:54 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 2013-03-15T08:32:54Z 3621  156000 551
+Mar 15, 2013 8:34:30 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 8:34:30 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:33:16Z 134
+Mar 15, 2013 8:34:30 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:33:16Z
+Mar 15, 2013 8:34:30 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:28:16Z 177
+Mar 15, 2013 8:34:35 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:33:16Z 2013-03-15T08:34:35Z 4400  79000 821
+Mar 15, 2013 8:36:10 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 8:36:10 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:33:24Z 255
+Mar 15, 2013 8:36:10 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:33:24Z
+Mar 15, 2013 8:36:14 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:33:24Z 2013-03-15T08:36:14Z 3741  170000 821
+Mar 15, 2013 8:37:50 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 8:37:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 440
+Mar 15, 2013 8:37:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:35:18Z 546
+Mar 15, 2013 8:37:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:35:18Z
+Mar 15, 2013 8:37:54 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:35:18Z 2013-03-15T08:37:54Z 3372  156000 821
+Mar 15, 2013 8:39:30 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 8:39:30 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:38:16Z 149
+Mar 15, 2013 8:39:30 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:38:16Z
+Mar 15, 2013 8:39:35 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:38:16Z 2013-03-15T08:39:35Z 4154  79000 1091
+Mar 15, 2013 8:41:10 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 8:41:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:38:24Z 299
+Mar 15, 2013 8:41:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:38:24Z
+Mar 15, 2013 8:41:15 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:38:24Z 2013-03-15T08:41:15Z 4942  171000 1091
+Mar 15, 2013 8:42:50 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 8:42:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 299
+Mar 15, 2013 8:42:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:40:18Z 553
+Mar 15, 2013 8:42:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:40:18Z
+Mar 15, 2013 8:42:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:40:18Z 2013-03-15T08:42:53Z 2222  155000 1091
+Mar 15, 2013 8:44:30 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 8:44:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:43:16Z 190
+Mar 15, 2013 8:44:31 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:43:16Z
+Mar 15, 2013 8:44:34 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:43:16Z 2013-03-15T08:44:34Z 3101  78000 1361
+Mar 15, 2013 8:46:10 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 8:46:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:43:25Z 274
+Mar 15, 2013 8:46:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:43:25Z
+Mar 15, 2013 8:46:15 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:43:25Z 2013-03-15T08:46:15Z 4026  170000 1361
+Mar 15, 2013 8:47:50 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 8:47:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 329
+Mar 15, 2013 8:47:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:45:18Z 532
+Mar 15, 2013 8:47:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:45:18Z
+Mar 15, 2013 8:48:07 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:45:18Z 2013-03-15T08:48:07Z 16327  169000 1361
+Mar 15, 2013 8:49:30 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 8:49:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:43:16Z 212
+Mar 15, 2013 8:51:10 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 8:51:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:43:25Z 283
+Mar 15, 2013 8:51:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:48:26Z 454
+Mar 15, 2013 8:51:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:48:26Z
+Mar 15, 2013 8:51:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:48:26Z 2013-03-15T08:51:16Z 4864  170000 1631
+Mar 15, 2013 8:52:50 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 8:52:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 400
+Mar 15, 2013 8:52:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:50:19Z 725
+Mar 15, 2013 8:52:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:50:19Z
+Mar 15, 2013 8:52:54 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:50:19Z 2013-03-15T08:52:54Z 3059  155000 1631
+Mar 15, 2013 8:54:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 8:54:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:38:16Z 162
+Mar 15, 2013 8:54:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 168
+Mar 15, 2013 8:54:31 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z
+Mar 15, 2013 8:54:34 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 2013-03-15T08:54:34Z 3143  378000 1631
+Mar 15, 2013 8:56:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 8:56:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:53:26Z 360
+Mar 15, 2013 8:56:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:53:26Z
+Mar 15, 2013 8:56:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:53:26Z 2013-03-15T08:56:16Z 4946  170000 1901
+Mar 15, 2013 8:57:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 8:57:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 326
+Mar 15, 2013 8:57:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:55:19Z 353
+Mar 15, 2013 8:57:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:55:19Z
+Mar 15, 2013 8:57:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:55:19Z 2013-03-15T08:57:53Z 2494  154000 1901
+Mar 15, 2013 8:59:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 8:59:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:38:16Z 182
+Mar 15, 2013 8:59:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 200
+Mar 15, 2013 8:59:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:58:16Z 439
+Mar 15, 2013 8:59:31 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:58:16Z
+Mar 15, 2013 8:59:35 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:58:16Z 2013-03-15T08:59:35Z 3986  79000 2171
+Mar 15, 2013 9:01:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:01:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:58:27Z 688
+Mar 15, 2013 9:01:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:58:27Z
+Mar 15, 2013 9:01:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:58:27Z 2013-03-15T09:01:16Z 4810  169000 2171
+Mar 15, 2013 9:02:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:02:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 320
+Mar 15, 2013 9:02:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:00:19Z 502
+Mar 15, 2013 9:02:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:00:19Z
+Mar 15, 2013 9:02:55 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:00:19Z 2013-03-15T09:02:55Z 3545  156000 2171
+Mar 15, 2013 9:04:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:04:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:38:16Z 170
+Mar 15, 2013 9:04:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 212
+Mar 15, 2013 9:04:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:03:16Z 308
+Mar 15, 2013 9:04:31 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:03:16Z
+Mar 15, 2013 9:04:35 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:03:16Z 2013-03-15T09:04:35Z 4281  79000 2441
+Mar 15, 2013 9:06:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:06:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:03:27Z 284
+Mar 15, 2013 9:06:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:03:27Z
+Mar 15, 2013 9:06:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T08:58:27Z 633
+Mar 15, 2013 9:06:14 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:03:27Z 2013-03-15T09:06:14Z 2848  167000 2441
+Mar 15, 2013 9:07:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:07:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:05:19Z 363
+Mar 15, 2013 9:07:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:05:19Z
+Mar 15, 2013 9:07:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 390
+Mar 15, 2013 9:07:55 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:05:19Z 2013-03-15T09:07:55Z 3826  156000 2441
+Mar 15, 2013 9:09:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:09:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:38:16Z 168
+Mar 15, 2013 9:09:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 259
+Mar 15, 2013 9:09:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:08:17Z 265
+Mar 15, 2013 9:09:31 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:08:17Z
+Mar 15, 2013 9:09:36 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:08:17Z 2013-03-15T09:09:36Z 4401  79000 2711
+Mar 15, 2013 9:11:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:11:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:08:28Z 195
+Mar 15, 2013 9:11:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:08:28Z
+Mar 15, 2013 9:11:14 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:08:28Z 2013-03-15T09:11:14Z 3046  166000 2711
+Mar 15, 2013 9:12:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:12:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:10:19Z 311
+Mar 15, 2013 9:12:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:10:19Z
+Mar 15, 2013 9:12:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 333
+Mar 15, 2013 9:12:56 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:10:19Z 2013-03-15T09:12:56Z 4935  157000 2711
+Mar 15, 2013 9:14:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:14:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:38:16Z 172
+Mar 15, 2013 9:14:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:08:17Z 207
+Mar 15, 2013 9:14:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:13:17Z 287
+Mar 15, 2013 9:14:31 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:13:17Z
+Mar 15, 2013 9:14:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 300
+Mar 15, 2013 9:14:36 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:13:17Z 2013-03-15T09:14:36Z 4430  79000 2981
+Mar 15, 2013 9:16:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:16:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:13:29Z 215
+Mar 15, 2013 9:16:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:13:29Z
+Mar 15, 2013 9:16:15 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:13:29Z 2013-03-15T09:16:15Z 3997  166000 2981
+Mar 15, 2013 9:17:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:17:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:15:19Z 338
+Mar 15, 2013 9:17:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:15:19Z
+Mar 15, 2013 9:17:57 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:15:19Z 2013-03-15T09:17:57Z 5848  158000 2981
+Mar 15, 2013 9:19:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:19:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:18:17Z 147
+Mar 15, 2013 9:19:31 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:18:17Z
+Mar 15, 2013 9:19:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 226
+Mar 15, 2013 9:19:36 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:18:17Z 2013-03-15T09:19:36Z 4533  79000 3251
+Mar 15, 2013 9:21:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:21:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:18:29Z 196
+Mar 15, 2013 9:21:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:18:29Z
+Mar 15, 2013 9:21:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:13:29Z 767
+Mar 15, 2013 9:21:15 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:18:29Z 2013-03-15T09:21:15Z 4002  166000 3251
+Mar 15, 2013 9:22:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:22:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T08:30:18Z 338
+Mar 15, 2013 9:22:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:20:19Z 642
+Mar 15, 2013 9:22:52 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:20:19Z
+Mar 15, 2013 9:22:56 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:20:19Z 2013-03-15T09:22:56Z 4534  157000 3251
+Mar 15, 2013 9:24:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:24:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 158
+Mar 15, 2013 9:24:31 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z
+Mar 15, 2013 9:24:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 231
+Mar 15, 2013 9:24:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:18:17Z 280
+Mar 15, 2013 9:24:36 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 2013-03-15T09:24:36Z 4540  79000 3521
+Mar 15, 2013 9:26:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:26:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:23:30Z 245
+Mar 15, 2013 9:26:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:23:30Z
+Mar 15, 2013 9:26:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:23:30Z 2013-03-15T09:26:16Z 4126  166000 3521
+Mar 15, 2013 9:27:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:27:51 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:25:19Z 328
+Mar 15, 2013 9:27:51 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:25:19Z
+Mar 15, 2013 9:27:57 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:25:19Z 2013-03-15T09:27:57Z 5107  158000 3521
+Mar 15, 2013 9:29:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:29:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 102
+Mar 15, 2013 9:29:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 158
+Mar 15, 2013 9:31:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:31:11 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:28:31Z 208
+Mar 15, 2013 9:31:11 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:28:31Z
+Mar 15, 2013 9:31:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:28:31Z 2013-03-15T09:31:16Z 4225  165000 3791
+Mar 15, 2013 9:32:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:32:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:30:20Z 317
+Mar 15, 2013 9:32:52 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:30:20Z
+Mar 15, 2013 9:32:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:25:19Z 405
+Mar 15, 2013 9:32:57 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:30:20Z 2013-03-15T09:32:57Z 5088  157000 3791
+Mar 15, 2013 9:34:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:34:31 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 140
+Mar 15, 2013 9:34:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:28:17Z 272
+Mar 15, 2013 9:34:32 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:28:17Z
+Mar 15, 2013 9:34:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 470
+Mar 15, 2013 9:34:35 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:28:17Z 2013-03-15T09:34:35Z 3586  378000 3791
+Mar 15, 2013 9:36:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:36:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:33:31Z 248
+Mar 15, 2013 9:36:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:33:31Z
+Mar 15, 2013 9:36:17 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:33:31Z 2013-03-15T09:36:17Z 5101  166000 4061
+Mar 15, 2013 9:37:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:37:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z 597
+Mar 15, 2013 9:37:52 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z
+Mar 15, 2013 9:37:56 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z 2013-03-15T09:37:56Z 3708  156000 4061
+Mar 15, 2013 9:39:31 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:39:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 223
+Mar 15, 2013 9:39:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 292
+Mar 15, 2013 9:39:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:18:17Z 361
+Mar 15, 2013 9:39:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:33:17Z 367
+Mar 15, 2013 9:39:32 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:33:17Z
+Mar 15, 2013 9:39:35 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:33:17Z 2013-03-15T09:39:35Z 3345  378000 4061
+Mar 15, 2013 9:41:11 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:41:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:38:32Z 220
+Mar 15, 2013 9:41:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:38:32Z
+Mar 15, 2013 9:41:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:38:32Z 2013-03-15T09:41:16Z 4005  164000 4331
+Mar 15, 2013 9:42:51 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:42:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:40:20Z 311
+Mar 15, 2013 9:42:52 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:40:20Z
+Mar 15, 2013 9:42:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z 587
+Mar 15, 2013 9:42:56 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:40:20Z 2013-03-15T09:42:56Z 3990  156000 4331
+Mar 15, 2013 9:44:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:44:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:18:17Z 214
+Mar 15, 2013 9:44:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 228
+Mar 15, 2013 9:44:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:38:18Z 345
+Mar 15, 2013 9:44:32 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:38:18Z
+Mar 15, 2013 9:44:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 368
+Mar 15, 2013 9:44:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:33:17Z 776
+Mar 15, 2013 9:44:35 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:38:18Z 2013-03-15T09:44:35Z 3341  377000 4331
+Mar 15, 2013 9:46:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:46:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:43:33Z 239
+Mar 15, 2013 9:46:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:43:33Z
+Mar 15, 2013 9:46:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:43:33Z 2013-03-15T09:46:16Z 3946  163000 4601
+Mar 15, 2013 9:47:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:47:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z 379
+Mar 15, 2013 9:47:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:45:20Z 554
+Mar 15, 2013 9:47:52 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:45:20Z
+Mar 15, 2013 9:47:57 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:45:20Z 2013-03-15T09:47:57Z 4655  157000 4601
+Mar 15, 2013 9:49:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:49:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:43:18Z 143
+Mar 15, 2013 9:49:32 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:43:18Z
+Mar 15, 2013 9:49:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 156
+Mar 15, 2013 9:49:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 303
+Mar 15, 2013 9:49:36 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:43:18Z 2013-03-15T09:49:36Z 4595  378000 4601
+Mar 15, 2013 9:51:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:51:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:48:33Z 196
+Mar 15, 2013 9:51:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:48:33Z
+Mar 15, 2013 9:51:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:48:33Z 2013-03-15T09:51:16Z 4145  163000 4871
+Mar 15, 2013 9:52:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:52:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:50:20Z 527
+Mar 15, 2013 9:52:52 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:50:20Z
+Mar 15, 2013 9:52:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z 1444
+Mar 15, 2013 9:52:57 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:50:20Z 2013-03-15T09:52:57Z 4846  157000 4871
+Mar 15, 2013 9:54:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:54:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:43:18Z 131
+Mar 15, 2013 9:54:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 138
+Mar 15, 2013 9:54:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:48:18Z 307
+Mar 15, 2013 9:54:32 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:48:18Z
+Mar 15, 2013 9:54:36 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:48:18Z 2013-03-15T09:54:36Z 3650  378000 4871
+Mar 15, 2013 9:56:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 9:56:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:53:34Z 240
+Mar 15, 2013 9:56:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:53:34Z
+Mar 15, 2013 9:56:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:53:34Z 2013-03-15T09:56:16Z 4279  162000 5141
+Mar 15, 2013 9:57:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 9:57:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:55:20Z 334
+Mar 15, 2013 9:57:52 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:55:20Z
+Mar 15, 2013 9:57:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z 385
+Mar 15, 2013 9:57:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:50:20Z 570
+Mar 15, 2013 9:58:10 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:55:20Z 2013-03-15T09:58:10Z 17778  170000 5141
+Mar 15, 2013 9:59:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 9:59:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 138
+Mar 15, 2013 9:59:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:43:18Z 205
+Mar 15, 2013 9:59:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:53:18Z 291
+Mar 15, 2013 9:59:32 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:53:18Z
+Mar 15, 2013 9:59:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 317
+Mar 15, 2013 9:59:48 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:53:18Z 2013-03-15T09:59:48Z 16253  390000 5141
+Mar 15, 2013 10:01:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:01:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:58:34Z 258
+Mar 15, 2013 10:01:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:58:34Z
+Mar 15, 2013 10:01:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:58:34Z 2013-03-15T10:01:16Z 4221  162000 5411
+Mar 15, 2013 10:02:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:02:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:00:20Z 327
+Mar 15, 2013 10:02:52 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:00:20Z
+Mar 15, 2013 10:02:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z 625
+Mar 15, 2013 10:02:58 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:00:20Z 2013-03-15T10:02:58Z 6172  158000 5411
+Mar 15, 2013 10:04:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:04:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:43:18Z 122
+Mar 15, 2013 10:04:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 128
+Mar 15, 2013 10:04:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 171
+Mar 15, 2013 10:04:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:58:18Z 284
+Mar 15, 2013 10:04:32 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:58:18Z
+Mar 15, 2013 10:04:36 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:58:18Z 2013-03-15T10:04:36Z 3620  378000 5411
+Mar 15, 2013 10:06:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:06:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:03:35Z 195
+Mar 15, 2013 10:06:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:03:35Z
+Mar 15, 2013 10:06:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:58:34Z 447
+Mar 15, 2013 10:06:15 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:03:35Z 2013-03-15T10:06:15Z 3244  160000 5681
+Mar 15, 2013 10:07:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:07:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z 418
+Mar 15, 2013 10:07:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:00:20Z 422
+Mar 15, 2013 10:09:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:09:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 199
+Mar 15, 2013 10:09:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:03:18Z 204
+Mar 15, 2013 10:09:32 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:03:18Z
+Mar 15, 2013 10:09:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 231
+Mar 15, 2013 10:09:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:08:18Z 1180
+Mar 15, 2013 10:09:33 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:08:18Z
+Mar 15, 2013 10:09:37 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:03:18Z 2013-03-15T10:09:37Z 4824  379000 5681
+Mar 15, 2013 10:09:58 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:08:18Z 2013-03-15T10:09:58Z 24928  100000 5951
+Mar 15, 2013 10:11:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:11:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:08:36Z 346
+Mar 15, 2013 10:11:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:08:36Z
+Mar 15, 2013 10:11:17 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:08:36Z 2013-03-15T10:11:17Z 4193  161000 5951
+Mar 15, 2013 10:12:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:12:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:10:21Z 316
+Mar 15, 2013 10:12:52 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:10:21Z
+Mar 15, 2013 10:12:54 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T09:35:20Z 1924
+Mar 15, 2013 10:12:58 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:10:21Z 2013-03-15T10:12:58Z 5304  157000 5951
+Mar 15, 2013 10:14:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:14:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 153
+Mar 15, 2013 10:14:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:03:18Z 174
+Mar 15, 2013 10:14:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:23:17Z 234
+Mar 15, 2013 10:14:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:13:18Z 406
+Mar 15, 2013 10:14:33 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:13:18Z
+Mar 15, 2013 10:15:17 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:13:18Z 2013-03-15T10:15:17Z 44521  119000 6221
+Mar 15, 2013 10:16:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:16:12 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:13:37Z 333
+Mar 15, 2013 10:16:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:13:37Z
+Mar 15, 2013 10:16:17 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:13:37Z 2013-03-15T10:16:17Z 4411  160000 6221
+Mar 15, 2013 10:17:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:17:52 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:10:21Z 331
+Mar 15, 2013 10:17:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:15:21Z 369
+Mar 15, 2013 10:17:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:15:21Z
+Mar 15, 2013 10:17:55 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:15:21Z 2013-03-15T10:17:55Z 2845  154000 6221
+Mar 15, 2013 10:19:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:19:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 140
+Mar 15, 2013 10:19:32 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:18:18Z 181
+Mar 15, 2013 10:19:32 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:18:18Z
+Mar 15, 2013 10:19:37 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:18:18Z 2013-03-15T10:19:37Z 4965  79000 6491
+Mar 15, 2013 10:21:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:21:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:18:38Z 398
+Mar 15, 2013 10:21:13 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:18:38Z
+Mar 15, 2013 10:21:17 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:18:38Z 2013-03-15T10:21:17Z 4473  159000 6491
+Mar 15, 2013 10:22:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:22:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:20:21Z 366
+Mar 15, 2013 10:22:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:20:21Z
+Mar 15, 2013 10:22:55 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:20:21Z 2013-03-15T10:22:55Z 2064  154000 6491
+Mar 15, 2013 10:24:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:24:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:23:19Z 243
+Mar 15, 2013 10:24:33 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:23:19Z
+Mar 15, 2013 10:24:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 286
+Mar 15, 2013 10:24:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T09:48:18Z 390
+Mar 15, 2013 10:24:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:13:18Z 684
+Mar 15, 2013 10:24:37 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:23:19Z 2013-03-15T10:24:37Z 4176  78000 6761
+Mar 15, 2013 10:26:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:26:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:23:38Z 227
+Mar 15, 2013 10:26:13 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:23:38Z
+Mar 15, 2013 10:26:16 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:23:38Z 2013-03-15T10:26:16Z 3741  158000 6761
+Mar 15, 2013 10:27:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:27:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:20:21Z 342
+Mar 15, 2013 10:27:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:25:21Z 367
+Mar 15, 2013 10:27:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:25:21Z
+Mar 15, 2013 10:27:56 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:25:21Z 2013-03-15T10:27:56Z 3085  155000 6761
+Mar 15, 2013 10:29:32 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:29:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:28:19Z 183
+Mar 15, 2013 10:29:33 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:28:19Z
+Mar 15, 2013 10:29:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 214
+Mar 15, 2013 10:29:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:13:18Z 1017
+Mar 15, 2013 10:30:04 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:28:19Z 2013-03-15T10:30:04Z 31885  105000 7031
+Mar 15, 2013 10:31:12 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:31:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:28:39Z 451
+Mar 15, 2013 10:31:13 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:28:39Z
+Mar 15, 2013 10:31:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T09:58:34Z 583
+Mar 15, 2013 10:31:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:23:38Z 728
+Mar 15, 2013 10:31:17 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:28:39Z 2013-03-15T10:31:17Z 4546  158000 7031
+Mar 15, 2013 10:32:52 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:32:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:30:21Z 664
+Mar 15, 2013 10:32:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:30:21Z
+Mar 15, 2013 10:32:56 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:30:21Z 2013-03-15T10:32:56Z 2864  155000 7031
+Mar 15, 2013 10:34:33 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:34:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:33:19Z 95
+Mar 15, 2013 10:34:33 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:33:19Z
+Mar 15, 2013 10:34:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 151
+Mar 15, 2013 10:35:06 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:33:19Z 2013-03-15T10:35:06Z 33224  107000 7301
+Mar 15, 2013 10:36:13 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:36:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:33:40Z 390
+Mar 15, 2013 10:36:13 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:33:40Z
+Mar 15, 2013 10:36:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:28:39Z 422
+Mar 15, 2013 10:36:17 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:33:40Z 2013-03-15T10:36:17Z 3854  157000 7301
+Mar 15, 2013 10:37:53 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:37:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:30:21Z 395
+Mar 15, 2013 10:37:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:35:21Z 802
+Mar 15, 2013 10:37:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:35:21Z
+Mar 15, 2013 10:37:56 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:35:21Z 2013-03-15T10:37:56Z 2870  155000 7301
+Mar 15, 2013 10:39:33 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:39:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:33:19Z 103
+Mar 15, 2013 10:39:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 222
+Mar 15, 2013 10:39:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:38:19Z 352
+Mar 15, 2013 10:39:33 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:38:19Z
+Mar 15, 2013 10:39:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:18:18Z 432
+Mar 15, 2013 10:40:12 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:38:19Z 2013-03-15T10:40:12Z 38993  113000 7571
+Mar 15, 2013 10:41:13 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:41:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:38:40Z 306
+Mar 15, 2013 10:41:13 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:38:40Z
+Mar 15, 2013 10:41:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:33:40Z 736
+Mar 15, 2013 10:41:17 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:38:40Z 2013-03-15T10:41:17Z 3903  157000 7571
+Mar 15, 2013 10:42:53 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:42:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:40:21Z 325
+Mar 15, 2013 10:42:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:40:21Z
+Mar 15, 2013 10:42:56 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:40:21Z 2013-03-15T10:42:56Z 3453  155000 7571
+Mar 15, 2013 10:44:33 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:44:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 220
+Mar 15, 2013 10:44:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:33:19Z 263
+Mar 15, 2013 10:44:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:18:18Z 289
+Mar 15, 2013 10:44:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:43:19Z 332
+Mar 15, 2013 10:44:33 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:43:19Z
+Mar 15, 2013 10:44:38 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:43:19Z 2013-03-15T10:44:38Z 4831  79000 7841
+Mar 15, 2013 10:46:13 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:46:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:43:41Z 306
+Mar 15, 2013 10:46:13 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:43:41Z
+Mar 15, 2013 10:46:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:38:40Z 352
+Mar 15, 2013 10:46:17 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:43:41Z 2013-03-15T10:46:17Z 3905  156000 7841
+Mar 15, 2013 10:47:53 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:47:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:45:22Z 421
+Mar 15, 2013 10:47:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:45:22Z
+Mar 15, 2013 10:47:57 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:45:22Z 2013-03-15T10:47:57Z 3359  155000 7841
+Mar 15, 2013 10:49:33 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:49:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 164
+Mar 15, 2013 10:49:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:33:19Z 243
+Mar 15, 2013 10:49:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:48:19Z 284
+Mar 15, 2013 10:49:33 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:48:19Z
+Mar 15, 2013 10:49:39 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:48:19Z 2013-03-15T10:49:39Z 5475  80000 8111
+Mar 15, 2013 10:51:13 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG
+Mar 15, 2013 10:51:13 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:48:42Z 360
+Mar 15, 2013 10:51:13 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:48:42Z
+Mar 15, 2013 10:51:18 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans 734RO6HILBSFN7TZMLELFXELO3NKEQPG 2013-03-15T10:48:42Z 2013-03-15T10:51:18Z 4920  156000 8111
+Mar 15, 2013 10:52:53 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4
+Mar 15, 2013 10:52:53 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:50:22Z 273
+Mar 15, 2013 10:52:53 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:50:22Z
+Mar 15, 2013 10:52:58 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans ZFV32TGQMAYUCBI6TNT6NDNVK3OCV3E4 2013-03-15T10:50:22Z 2013-03-15T10:52:58Z 4528  156000 8111
+Mar 15, 2013 10:54:33 AM net.blogracy.controller.DistributedHashTable$LookupListener <init>
+INFO: lookup-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR
+Mar 15, 2013 10:54:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T08:48:16Z 226
+Mar 15, 2013 10:54:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:33:19Z 259
+Mar 15, 2013 10:54:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:53:19Z 305
+Mar 15, 2013 10:54:33 AM net.blogracy.controller.DistributedHashTable$DownloadListener <init>
+INFO: download-req OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:53:19Z
+Mar 15, 2013 10:54:33 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:48:19Z 473
+Mar 15, 2013 10:54:34 AM net.blogracy.controller.DistributedHashTable$LookupListener onMessage
+INFO: lookup-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:28:19Z 648
+Mar 15, 2013 10:54:50 AM net.blogracy.controller.DistributedHashTable$DownloadListener onMessage
+INFO: download-ans OL65LQYSH3BAO6TGPHZIFC72WVGFD6PR 2013-03-15T10:53:19Z 2013-03-15T10:54:50Z 16630  91000 8381

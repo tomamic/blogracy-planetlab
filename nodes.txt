@@ -1,0 +1,12 @@
+planetlab1.ifi.uio.no
+planetlab01.dis.unina.it
+ple1.cesnet.cz
+planet2.inf.tu-dresden.de
+planetlab3.hiit.fi
+planetlab3.xeno.cl.cam.ac.uk
+planetlab1.science.unitn.it
+planetlab1.sics.se
+planetlab1.csg.uzh.ch
+planetlab3.upc.es
+peeramide.irisa.fr
+planet2.servers.ua.pt
